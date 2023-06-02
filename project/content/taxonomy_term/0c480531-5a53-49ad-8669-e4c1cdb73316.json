@@ -1,0 +1,89 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-rakiiboo-lab2-v1tw0ls3vj4.ws-us98.gitpod.io\/copyleft?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-rakiiboo-lab2-v1tw0ls3vj4.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/licencia"
+        },
+        "https:\/\/8080-rakiiboo-lab2-v1tw0ls3vj4.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/licencia\/parent": [
+            null
+        ]
+    },
+    "tid": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "0c480531-5a53-49ad-8669-e4c1cdb73316"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es",
+            "lang": "es"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "licencia"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-06-02T00:59:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "name": [
+        {
+            "value": "Copyleft",
+            "lang": "es"
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-rakiiboo-lab2-v1tw0ls3vj4.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/licencia\/parent": [
+            null
+        ]
+    },
+    "changed": [
+        {
+            "value": "2023-06-02T00:59:35+00:00",
+            "lang": "es",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/copyleft",
+            "pid": 2,
+            "langcode": "es",
+            "lang": "es"
+        }
+    ]
+}

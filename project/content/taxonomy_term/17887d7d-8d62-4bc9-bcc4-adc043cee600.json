@@ -1,0 +1,89 @@
+{
+    "_links": {
+        "self": {
+            "href": "https:\/\/8080-rakiiboo-lab2-v1tw0ls3vj4.ws-us98.gitpod.io\/copyright?_format=hal_json"
+        },
+        "type": {
+            "href": "https:\/\/8080-rakiiboo-lab2-v1tw0ls3vj4.ws-us98.gitpod.io\/rest\/type\/taxonomy_term\/licencia"
+        },
+        "https:\/\/8080-rakiiboo-lab2-v1tw0ls3vj4.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/licencia\/parent": [
+            null
+        ]
+    },
+    "tid": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "17887d7d-8d62-4bc9-bcc4-adc043cee600"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "es",
+            "lang": "es"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "licencia"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2023-06-02T00:58:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "status": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "name": [
+        {
+            "value": "Copyright",
+            "lang": "es"
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "_embedded": {
+        "https:\/\/8080-rakiiboo-lab2-v1tw0ls3vj4.ws-us98.gitpod.io\/rest\/relation\/taxonomy_term\/licencia\/parent": [
+            null
+        ]
+    },
+    "changed": [
+        {
+            "value": "2023-06-02T00:58:32+00:00",
+            "lang": "es",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "es"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/copyright",
+            "pid": 1,
+            "langcode": "es",
+            "lang": "es"
+        }
+    ]
+}

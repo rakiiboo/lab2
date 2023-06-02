@@ -1,0 +1,37 @@
+uuid: 08d4a378-04e2-4fd7-9621-347dfd29995e
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.field.media.archivos.field_licenciareferencia
+    - field.field.media.archivos.field_media_file
+    - media.type.archivos
+  module:
+    - file
+id: media.archivos.default
+targetEntityType: media
+bundle: archivos
+mode: default
+content:
+  field_licenciareferencia:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_media_file:
+    type: file_default
+    label: visually_hidden
+    settings:
+      use_description_as_link_text: true
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  created: true
+  langcode: true
+  name: true
+  thumbnail: true
+  uid: true
